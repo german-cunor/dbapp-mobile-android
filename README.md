@@ -1,3 +1,3 @@
 # dbapp-mobile-android
 
-Instalar el apk en la carpeba "build"
+Instalar el apk en la carpeba "generated_apk"
