@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DB App</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="stock">Stock</string>
+    <string name="description">Description</string>
+    <string name="no_items">No Items</string>
+</resources>
